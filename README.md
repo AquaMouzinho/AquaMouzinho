@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=AquaMouzinho&color=006bed)
 ##  Hello World! I am Marino 👋
 Desenvolvedor Front-End sempre em busca de novos desafios! 
-- 🎓 Bacharelando em Engenharia de Computação no [IFPB](https://ifpb.edu.br).
+- :books: *Oracle Next Education* - Turma 3 
+- 🎓 Bacharelando em Engenharia de Computação no [**IFPB**](https://ifpb.edu.br).
 - 🌱 Aprendendo mais sobre *REACT*, *SAAS* e *TYPESCRIPT*.
 
 #### 💬 Onde me encontrar: ⤵️
