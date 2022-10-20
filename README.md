@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=AquaMouzinho&color=006bed)
-##  Hello World! I am Marino 👋
+##  Hello World! I am Marino 👋   ![](https://komarev.com/ghpvc/?username=AquaMouzinho&color=006bed)
+
 Desenvolvedor Front-End sempre em busca de novos desafios! 
 - :books: *Oracle Next Education* - Turma 3 
 - 🎓 Bacharelando em Engenharia de Computação no [**IFPB**](https://ifpb.edu.br).
@@ -10,7 +10,7 @@ Desenvolvedor Front-End sempre em busca de novos desafios!
 [ ![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) ](mailto:marino.mouzinho@hotmail.com)
 [![GitHub MARINO]( https://img.shields.io/github/followers/AquaMouzinho?label=follow&style=social)](https://github.com/AquaMouzinho)
 
-## :rocket::computer: Tecnologias & Ferramentas
+## :computer: Tecnologias & Ferramentas
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,3 +31,8 @@ Desenvolvedor Front-End sempre em busca de novos desafios!
 ## ⚡ Estatísticas GitHub
 [![card](https://github-readme-stats.vercel.app/api?username=AquaMouzinho&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=AquaMouzinho&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+## :rocket: Badges
+| Badge ONE - Sprint 01 | Badge ONE - Sprint 02 | Badge ONE - Sprint 03 |
+| ----------- | ----------- | ----------- |
+|![badge-one](https://user-images.githubusercontent.com/42475699/197026827-b239cef4-2b52-4d3d-a88e-227029c27cb4.png)|![badge-two](https://user-images.githubusercontent.com/42475699/197026865-30a0eed9-eab1-4867-9d58-6df4184a3442.png)|![badge-three](https://user-images.githubusercontent.com/42475699/197026922-f76fed8c-a9e6-4829-b08d-2fb9bea5b271.png)|
