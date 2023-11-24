@@ -3,7 +3,7 @@
 Desenvolvedor Front-End sempre em busca de novos desafios! 
 - :books: *Oracle Next Education* - Turma 3 
 - 🎓 Bacharelando em Engenharia de Computação no [**IFPB**](https://ifpb.edu.br).
-- 🌱 Aprendendo mais sobre *REACT*, *SAAS* e *TYPESCRIPT*.
+- 🌱 Currently on: **Developing a C++ game**.
 
 #### 💬 Onde me encontrar: ⤵️
 [ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ]( https://linkedin.com/in/marino-paulino-dev )
