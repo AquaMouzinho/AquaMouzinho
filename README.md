@@ -30,7 +30,6 @@ Desenvolvedor Front-End sempre em busca de novos desafios!
 
 ## ⚡ Estatísticas GitHub
 [![card](https://github-readme-stats.vercel.app/api?username=AquaMouzinho&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=AquaMouzinho&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :rocket: Badges
 | Badge ONE - Sprint 01 | Badge ONE - Sprint 02 | Badge ONE - Sprint 03 |
