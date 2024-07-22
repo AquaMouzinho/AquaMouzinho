@@ -3,12 +3,13 @@
 Desenvolvedor Front-End sempre em busca de novos desafios! 
 - :books: *Oracle Next Education* - Turma 3 
 - 🎓 Bacharelando em Engenharia de Computação no [**IFPB**](https://ifpb.edu.br).
-- 🌱 Atualmente em: **Desenvolvendo site portfólio**.
+- 🎓 Técnico em Informática - [**IFPB**](https://ifpb.edu.br).
+- 🌱 Atualmente em: **Explorando o Next JS**.
 
 #### 💬 Onde me encontrar: ⤵️
 [ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ]( https://linkedin.com/in/marino-paulino-dev )
 [ ![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) ](mailto:marino.mouzinho@hotmail.com)
-[![GitHub MARINO]( https://img.shields.io/github/followers/AquaMouzinho?label=follow&style=social)](https://github.com/AquaMouzinho)
+[ ![image](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://marino-mouzinho-portfolio.vercel.app)
 
 ## :computer: Tecnologias & Ferramentas
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
