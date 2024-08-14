@@ -1,10 +1,9 @@
 ##  Hello World! I am Marino 👋   ![](https://komarev.com/ghpvc/?username=AquaMouzinho&color=006bed)
 
-Desenvolvedor Front-End sempre em busca de novos desafios! 
-- :books: *Oracle Next Education* - Turma 3 
-- 🎓 Bacharelando em Engenharia de Computação no [**IFPB**](https://ifpb.edu.br).
+Desenvolvedor sempre em busca de novos desafios! 
+- :books: Bacharelando em Engenharia de Computação no [**IFPB**](https://ifpb.edu.br).
 - 🎓 Técnico em Informática - [**IFPB**](https://ifpb.edu.br).
-- 🌱 Atualmente em: **Explorando o Next JS**.
+- 🌱 Atualmente em: **Aprendendo sobre conversor DAC**.
 
 #### 💬 Onde me encontrar: ⤵️
 [ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ]( https://linkedin.com/in/marino-paulino-dev )
