@@ -3,7 +3,7 @@
 Desenvolvedor sempre em busca de novos desafios! 
 - :books: Bacharelando em Engenharia de Computação no [**IFPB**](https://ifpb.edu.br).
 - 🎓 Técnico em Informática - [**IFPB**](https://ifpb.edu.br).
-- 🌱 Atualmente em: **Aprendendo sobre conversor DAC**.
+- 🌱 Atualmente em: **Sistema de Comunicação Multiagente em GODOT**.
 
 #### 💬 Onde me encontrar: ⤵️
 [ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ]( https://linkedin.com/in/marino-paulino-dev )
@@ -29,9 +29,4 @@ Desenvolvedor sempre em busca de novos desafios!
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## ⚡ Estatísticas GitHub
-[![card](https://github-readme-stats.vercel.app/api?username=AquaMouzinho&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## :rocket: Badges
-| Badge ONE - Sprint 01 | Badge ONE - Sprint 02 | Badge ONE - Sprint 03 |
-| ----------- | ----------- | ----------- |
-|![badge-one](https://user-images.githubusercontent.com/42475699/197026827-b239cef4-2b52-4d3d-a88e-227029c27cb4.png)|![badge-two](https://user-images.githubusercontent.com/42475699/197026865-30a0eed9-eab1-4867-9d58-6df4184a3442.png)|![badge-three](https://user-images.githubusercontent.com/42475699/197026922-f76fed8c-a9e6-4829-b08d-2fb9bea5b271.png)|
+[![card](https://github-readme-stats.vercel.app/api?username=MarinoMouzinho&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
